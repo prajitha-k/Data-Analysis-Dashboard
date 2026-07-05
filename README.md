@@ -3,7 +3,7 @@
 This project is to analyze Rapido ride booking data and create an interactive dashboard in Microsoft Excel that helps monitor booking performance,revenue,ride completion,customer satisfaction, and payment trend.
 
 ## Dataset used
--<a href="https://github.com/prajitha-k/Data-Analysis-Dashboard/blob/main/Rapido%20data.xlsx">Dataset</a>
+<a href="https://github.com/prajitha-k/Data-Analysis-Dashboard/blob/main/Rapido%20data.xlsx">Dataset</a>
 
 ## Questions (KPIs)
 What percentage of bookings were completed, cancelled, and incomplete?
@@ -24,7 +24,7 @@ Which payment method contributes the highest number of transactions?
 
 Which city shows the highest ride demand?
 
-What insights can help improve customer satisfaction and ride completion rates?
+-What insights can help improve customer satisfaction and ride completion rates?
 
 Dashboard Interaction <a href="https://github.com/prajitha-k/Data-Analysis-Dashboard/blob/main/Rapido%20Dashboard(EXCEL).png">View Dashboard</a>
 
